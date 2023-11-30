@@ -1,0 +1,14 @@
+body {
+    background-color: tan;
+}
+
+img {
+    height: 310px;
+    width: auto;
+}
+
+.cook-note {
+    background-color: saddlebrown;
+    color: white;
+    text-align: center;
+}
