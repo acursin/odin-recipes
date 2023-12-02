@@ -3,14 +3,14 @@ body {
     font-family: 'Georgia', serif
 }
 
-h1 {
-    font-size: 40px;
-    text-align: center;
-}
-
 img {
     height: 310px;
     width: auto;
+}
+
+.recipe-title {
+    font-size: 40px;
+    text-align: center;
 }
 
 .cook-note {
